@@ -5,6 +5,9 @@
 
   The data team at Delhivery leverages vast delivery and transaction data to enhance efficiency, quality, and profitability.
 
+## Data Source - 
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181
+
 ## Project Objective
   To analyze and process logistics data from Delhivery’s data engineering pipelines to extract meaningful business insights.
   ### Key goals:
