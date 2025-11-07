@@ -3,6 +3,10 @@
 ## About Walmart:
   Walmart is a leading American multinational retail corporation operating a global chain of supercenters, discount stores, and grocery outlets. Serving over 100   million customers worldwide, Walmart focuses on understanding customer purchase behavior to enhance marketing strategies and business decisions.
 
+## Data Source - 
+
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
+
 ## Project Objective:
 To analyze customer purchasing patterns and spending behavior across demographics such as gender and age, enabling Walmart’s management team to make data-driven marketing and inventory decisions.
 
