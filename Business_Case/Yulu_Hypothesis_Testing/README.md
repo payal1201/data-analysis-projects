@@ -6,6 +6,9 @@
 
   Recently, Yulu has experienced a decline in revenue and aims to understand the key factors influencing demand for its shared electric cycles. By analyzing             operational and environmental data, the company seeks to improve its fleet utilization, optimize pricing strategies, and enhance user satisfaction.
 
+## Data Source - 
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089
+
 ## Project Objective
 
 ### Key Goal – How You Can Help Here
