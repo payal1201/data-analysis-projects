@@ -117,4 +117,6 @@ Each visual was carefully curated for clarity, decision-making, and executive-le
 
 [![Open Dashboard on Tableau Public](https://img.shields.io/badge/Open%20Dashboard-Tableau%20Public-orange?logo=tableau)](https://public.tableau.com/app/profile/payal.shrawankar/viz/DelhiveryDashboard/InsightsRecommendations?publish=yes)
 
+![Dashboard Preview](https://raw.githubusercontent.com/payal1201/data-analysis-projects/main/Business_Case/Delhivery_Feature_Engineering/Delhivery%20Dashboard.png)
+
 
